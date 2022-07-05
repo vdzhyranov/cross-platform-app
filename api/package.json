@@ -4,7 +4,6 @@
   "description": "build cross-platform app with graphQL react, react native, electron",
   "main": "index.js",
    "scripts": {
-    "start": "nodemon src/index.js",
     "dev": "nodemon src/index.js"
   },
   "repository": {
